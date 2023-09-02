@@ -21,7 +21,8 @@
 <p align="left"></p>
 
 ###
-
+<br>
+<br>
 <h4 align="left">🌱 I am Currently Learning React.js<br>🎯 Aiming to be a Software Developer</h4>
 
 ###
@@ -29,7 +30,7 @@
 <p align="left"></p>
 
 ###
-
+<br>
 <p align="left">🧑‍💻 Languages and Tools :</p>
 
 ###
@@ -55,7 +56,7 @@
 <p align="left"></p>
 
 ###
-
+<br>
 <p align="left">Look at my Contributions getting eaten by a snake</p>
 
 ###
@@ -67,7 +68,7 @@
 <p align="left"></p>
 
 ###
-
+<br>
 <br clear="both">
 
 <div align="center">
@@ -80,12 +81,10 @@
 <p align="left"></p>
 
 ###
-
+<br>
 <p align="left">Follow my Social Media Handles :</p>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/riyasat-ali-b026b2217/" target="_blank">
