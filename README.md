@@ -1,5 +1,5 @@
 <img src="banner.png" alt="banner">
-###
+
 
 <h1 align="center">Hey!!! 👋, I'm K. Riyasat Ali</h1>
 
