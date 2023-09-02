@@ -1,6 +1,5 @@
 <img src="banner.png" alt="banner">
 
-
 <h1 align="center">Hey!!! 👋, I'm K. Riyasat Ali</h1>
 
 ###
@@ -20,8 +19,11 @@
 <p align="left"></p>
 
 ###
-<br>
-<br>
+
+<img align="right" height="200" src="programer.gif"  />
+
+###
+
 <h4 align="left">🌱 I am Currently Learning React.js<br>🎯 Aiming to be a Software Developer</h4>
 
 ###
@@ -29,7 +31,7 @@
 <p align="left"></p>
 
 ###
-<br>
+
 <p align="left">🧑‍💻 Languages and Tools :</p>
 
 ###
@@ -55,7 +57,7 @@
 <p align="left"></p>
 
 ###
-<br>
+
 <p align="left">Look at my Contributions getting eaten by a snake</p>
 
 ###
@@ -67,12 +69,12 @@
 <p align="left"></p>
 
 ###
-<br>
+
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyasatt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyasatt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=riyasatt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riyasatt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
@@ -80,10 +82,12 @@
 <p align="left"></p>
 
 ###
-<br>
+
 <p align="left">Follow my Social Media Handles :</p>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <a href="https://www.linkedin.com/in/riyasat-ali-b026b2217/" target="_blank">
